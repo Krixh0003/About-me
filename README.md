@@ -14,9 +14,7 @@
 
 
 ## 📫CONNECT with ME 
-| <a href="https://www.linkedin.com/in/prakhar-vasistha-b36bb2183/" class = "d-inline" width = "30%" >   <img align="left" alt="Prakhar's LinkedIN" width="50px" height="50px" src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png" /></a> 	| <a href="https://www.hackerrank.com/vasistha_prakhar" class = "d-inline" width = "30%">  <img align="left" alt="Prakhar's HackerRank" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" /></a> 	| <a href="https://leetcode.com/int_float_double/" class = "d-inline" width = "30%">  <img align="left" alt="Prakhar's LeetCode" width="50px" height="50px" src="https://pathrise-website-guide-wp.s3.us-west-1.amazonaws.com/guides/wp-content/uploads/2019/05/10175228/images-11.png" /></a> 	| <a href="https://twitter.com/PRAKHAR0608" class = "d-inline" width = "30%">   <img align="left" alt="Prakhar's Twitter" width="50px" height="50px" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" /></a> 	|
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-
+| <a href="https://www.linkedin.com/in/krish-vashisth-557341254/" class = "d-inline" width = "30%" >   <img align="left" alt="Krish's LinkedIN" width="50px" height="50px" src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png" /></a> | <a href="https://leetcode.com/Krixh/" class = "d-inline" width = "30%">  <img align="left" alt="Krish's LeetCode" width="50px" height="50px" src="https://pathrise-website-guide-wp.s3.us-west-1.amazonaws.com/guides/wp-content/uploads/2019/05/10175228/images-11.png" /></a> 	| <a href="https://instagram.com/krish.vxd" class = "d-inline" width = "30%">   <img align="left" alt="Krish's instagram" width="50px" height="50px" src="https://png.pngtree.com/png-clipart/20221019/original/pngtree-instagram-icon-png-image_8704817.png" /></a> 	
 <br><br>
 
 ## I WORK ON
@@ -73,7 +71,7 @@
 <br>
 
 
-| ![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=VasisthaPrakhar&count_private=true&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasisthaprakhar&langs_count=10&show_icons=true&theme=radical) | 
+| ![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=VasisthaPrakhar&count_private=true&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasisthaprakhar&langs_count=10&show_icons=true&theme=radical) | 
 |------------------- |---------- | 
 
 
