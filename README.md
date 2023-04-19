@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#  Prakhar this side_
+#  Krish this side_
 #### Full stack web Developer, Machine Learning enthusiasts
 
 <img align="right" alt="GIF"  width="300px" src="https://media2.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" />
